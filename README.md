@@ -5,3 +5,7 @@ Running:
 StravaCSVhelper -token \<token\> -file \<file\>
 
 Sure u can hardcode your token and file location as default values.
+
+Example is here https://home.nest.org.ru/Strava/
+
+New things to come.
